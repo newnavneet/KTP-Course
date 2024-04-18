@@ -1,7 +1,7 @@
 import com.faangx.ktp.basics.TextMiniApp
 
 fun getText(): String {
-    return "Namaste Kotlin "
+    return "Namaste Kotlin"
 }
 
 fun main() {
