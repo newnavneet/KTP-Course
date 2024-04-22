@@ -1,7 +1,8 @@
 import com.faangx.ktp.basics.MaxOfThreeNumsMiniApp
+import kotlin.math.max
 
 fun maxOf(x: Int, y: Int, z: Int): Int {
-    TODO()
+    return  max(max(x,y),z)
 }
 
 fun main() {
