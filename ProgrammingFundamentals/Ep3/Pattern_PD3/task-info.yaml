@@ -3,8 +3,8 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 115
-        length: 6
+      - offset: 111
+        length: 0
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: qTmjfckzpEt9QELTstfvCXL7zi9wow+kmsA9BoqepQYpVsG+RLJaWt0UBvQtF/ntRJY5TMHQ59HZJcs4VAOaMk2mfcux/jZKtr+ITnBW2M3NghjRyaYrnaziDLFy/cqoWGNgFfR6vfhQIUs84IN2PWi0ktMdd2pNoo3+a1+yRUAahzvSUnpJAodh3X+dykNBFUyDcxkqA3r3ihmzQnKejdSjSFgOZS4FZVMuwzQwJsJxqnwfIovHdpcHk0aTnUpw
         selected: false
         status: Unchecked
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YruKfNB9kTwbh8ExRFzUgJTLgVgCNz+SFL+cXgkRajLPlF3l9g+NDjatRSlQl8Uk+pKS9VI/O10SHaL9BXV5RMFcIRvukrnd4Fr/MMFZ3R8CDAhTgjjQwj5NqAWYIojPkLMMT51J1wnD7sqD0Xm7QAUoHrhBVSbFbCaVXG01L9gKMv205X6vH+ry45xph+hDEF2j0on3lv08qiObxYJAVWB46x1AcWxTdjCLwi/Q7Me/N
     learner_created: false
   - name: test/Tests.kt
